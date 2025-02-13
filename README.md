@@ -25,8 +25,8 @@ I specialize in building scalable software systems and bridging the gap between 
 - 📊 Google Scholar: [Scholar Profile Coming Soon]
 
 🍺 Grab a coffee 🍵
-📅 Schedule Meeting: [Notion Calendar](https://calendar.notion.so/meet/satyashah/w76tt4ldk)
-📃 My Resume: [Reach out to me]
+- 📅 Schedule Meeting: [Notion Calendar](https://calendar.notion.so/meet/satyashah/w76tt4ldk)
+- 📃 My Resume: [Reach out to me]
 
 Open to new opportunities & collaborations — let’s build something amazing!
 
