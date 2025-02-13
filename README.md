@@ -4,7 +4,7 @@ Founder & Full-stack Research Engineer.
 I specialize in building scalable software systems and bridging the gap between research and product development. Passionate about health tech, AI, and sensor-based systems. Currently driving innovation as the founder of Omni Labs, working on cutting-edge products to redefine human-computer interaction.
 
 🌟 Current Roles:
-- 💡 Founder @OmniLabs
+- 💡 Founder @[OmniLabs](https://omnilabs-ai.github.io/)
 - 💳 Incoming Software Engineer Intern @Stripe
 - 💻 Former Intern @Medtronic, @Raytheon
 
