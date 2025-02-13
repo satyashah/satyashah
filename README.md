@@ -13,10 +13,10 @@ I specialize in building scalable software systems and bridging the gap between 
 - Double Degree in Computer Engineering & Bioengineering
 
 🌱 Areas of Interest:
+- AI Agents and LLM engineering
 - Full-stack Web Development
 - Health Tech Innovation
 - AI & Machine Learning
-- Wearable Sensors & Signal Processing
 
 📞 Let’s Connect:
 - 📧 Email: sshah132@terpmail.umd.edu
@@ -26,7 +26,7 @@ I specialize in building scalable software systems and bridging the gap between 
 
 🍺 Grab a coffee 🍵
 📅 Schedule Meeting: [Notion Calendar](https://calendar.notion.so/meet/satyashah/w76tt4ldk)
-📃 My Resume: [Resume Coming Soon]
+📃 My Resume: [Reach out to me]
 
 Open to new opportunities & collaborations — let’s build something amazing!
 
