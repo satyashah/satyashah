@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi there! 👋
+Founder & Full-stack Research Engineer.
 
-<!--
-**satyashah/satyashah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in building scalable software systems and bridging the gap between research and product development. Passionate about health tech, AI, and sensor-based systems. Currently driving innovation as the founder of Omni Labs, working on cutting-edge products to redefine human-computer interaction.
 
-Here are some ideas to get you started:
+🌟 Current Roles:
+- 💡 Founder @OmniLabs
+- 💳 Incoming Software Engineer Intern @Stripe
+- 💻 Former Intern @Medtronic, @Raytheon
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Education:
+- 🌍 University of Maryland
+- Double Degree in Computer Engineering & Bioengineering
+
+🌱 Areas of Interest:
+- Full-stack Web Development
+- Health Tech Innovation
+- AI & Machine Learning
+- Wearable Sensors & Signal Processing
+
+📞 Let’s Connect:
+- 📧 Email: sshah132@terpmail.umd.edu
+- 🏠 Personal Website: [Portfolio](https://shahsatya.com/)
+- 💼 LinkedIn: [linkedin.com/in/satya-shah](https://www.linkedin.com/in/satya-shah/)
+- 📊 Google Scholar: [Scholar Profile Coming Soon]
+
+🍺 Grab a coffee 🍵
+📅 Schedule Meeting: [Notion Calendar](https://calendar.notion.so/meet/satyashah/w76tt4ldk)
+📃 My Resume: [Resume Coming Soon]
+
+Open to new opportunities & collaborations — let’s build something amazing!
+
