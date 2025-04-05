@@ -10,7 +10,7 @@ I specialize in building scalable software systems and bridging the gap between 
 
 🎓 Education:
 - 🌍 University of Maryland
-- Double Degree in Computer Engineering & Bioengineering
+- Double Degree in Computer Science & Bioengineering
 
 🌱 Areas of Interest:
 - AI Agents and LLM engineering
